@@ -4,7 +4,9 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.5'
 
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 
+gem 'devise', '~> 4.1', '>= 4.1.1'
 
 gem 'sass-rails', '~> 5.0'
 
